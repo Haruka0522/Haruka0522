@@ -6,3 +6,8 @@
 ## :link: Links
 
 - [:bird: Twitter](https://twitter.com/Haruka2003_exe)
+
+
+## :sparkles: Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haruka0522&layout=compact)](https://github.com/Haruka0522)
